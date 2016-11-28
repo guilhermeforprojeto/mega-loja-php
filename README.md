@@ -1,2 +1,2 @@
 # mega-loja
-Código conte e banco de dados
+Código fonte e Bando de Dados
